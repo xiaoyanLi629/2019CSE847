@@ -13,7 +13,22 @@
   Then order these cluster one by one and choose the first required k cluster. Then assign samples to these clusters again to get
   the final asignmen result.
 
-Reference-style: 
+Image 1 for 10 components: 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_1.jpg "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_1.jpg "Image 1 with 10 components"
+
+Image 2 for 10 components: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_2.jpg "Image 2 with 10 components"
+
+Image 1 for 50 components: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_50_1.jpg "Image 1 with 50 components"
+
+Image 1 for 50 components: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_50_2.jpg "Image 2 with 50 components"
