@@ -15,4 +15,10 @@
   
 Reference-style: 
 ![alt text][logo]
-[logo]: https://github.com/xiaoyanLi629/2019CSE847/blob/master/Homework/Hw-5/image_10_1.jpg "Logo Title Text 2"
+
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/blob/master/Homework/Hw-5/image_10_1.jpg "Logo Title Text 2"
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
