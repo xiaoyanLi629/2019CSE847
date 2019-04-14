@@ -1,5 +1,4 @@
 # This is homework 5
-# PyTorch Custom Dataset Examples
 
 Problem 1:
   Two k-means method used. 
@@ -12,17 +11,3 @@ Problem 1:
   with each row is an assignment, need to calculate the number of assignment of each column, because each column means one cluster.
   Then order these cluster one by one and choose the first required k cluster. Then assign samples to these clusters again to get
   the final asignmen result.
-  
-
-# PyTorch Custom Dataset Examples
-
-There are some official custom dataset examples on PyTorch repo like [this](https://github.com/pytorch/tutorials/blob/master/beginner_source/data_loading_tutorial.py) but they still seemed a bit obscure to a beginner (like me) so I had to spend some time understanding what exactly I needed to have a fully customized dataset. To save you the trouble of going through bajillion of pages, here I decided to write the basics of Pytorch datasets. The topics are as follows.
-
-# Topics
-- [Custom Dataset Fundamentals](#custom-dataset-fundamentals)
-- [Using Torchvision Transforms](#using-torchvision-transforms)
-- [Another Way to Use Torchvision Transforms](#another-way-to-use-torchvision-transforms)
-- [Incorporating Pandas (Reading csv)](#incorporating-pandas)
-- [Incorporating Pandas with More Logic in `__getitem__()`](#incorporating-pandas-with-more-logic)
-- [Using Data Loader with Custom Datasets](#using-data-loader)
-- [What's Next?](#future-updates)
