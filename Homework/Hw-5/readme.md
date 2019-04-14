@@ -12,3 +12,8 @@
   with each row is an assignment, need to calculate the number of assignment of each column, because each column means one cluster.
   Then order these cluster one by one and choose the first required k cluster. Then assign samples to these clusters again to get
   the final asignmen result.
+  
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
