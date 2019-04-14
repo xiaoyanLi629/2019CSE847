@@ -1,8 +1,9 @@
 # This is homework 5
 
-Problem 1:
+## Problem 1:
+'''
   Two k-means method used. 
-  
+'''
   The first one is the common iteration method. Calculating centroids and assign clusters and calculate centroids again.
   
   The second one is spectral relaxation method. In derivative equation procedure, 
