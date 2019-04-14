@@ -16,7 +16,7 @@
 Image 1 for 10 components: 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_1.jpg "Image 1 with 10 components"
+[logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_1.jpg | width = 100 "Image 1 with 10 components"
 
 Image 2 for 10 components: 
 ![alt text][logo]
