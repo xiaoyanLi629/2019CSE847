@@ -52,6 +52,3 @@ Image 2 for 200 components:
 ![alt text][logo]
 
 [logo]: https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_200_2.jpg "Image 2 with 200 components"
-
-
-![test](https://raw.githubusercontent.com/xiaoyanLi629/2019CSE847/master/Homework/Hw-5/image_10_1.jpg | width=48)
